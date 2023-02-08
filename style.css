@@ -60,9 +60,15 @@ input{
     display: flex;
 }
 
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
 
 @media screen and (max-width: 1005px){
 
 
-    
+
 }
