@@ -75,8 +75,7 @@ input::placeholder{
 }
 
 
-@media screen and (max-width: 1005px){
-
-
-
+#name-el{
+    text-align: center;
+    margin: auto;
 }
